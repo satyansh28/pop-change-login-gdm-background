@@ -1,5 +1,5 @@
 # pop-change-login-gdm-background
-A script  to change the gdm background on Pop!_OS
+A script  to change the gdm background on Pop!_OS(20.04, 21.04, 21.10 and 22.04)
 
 Clone the repo using the following command:
 
@@ -7,16 +7,16 @@ Clone the repo using the following command:
 
 Navigate inside the pop-change-login-gdm-backdround-main folder and run 
 
-`sudo ./pop-gdm-settt-background --help`
+`./pop-gdm-set-background --help`
 
 This command will show how to use the script.
 Here are examples on how to use the script:
 
 Example Commands:
 
-1. `sudo ./ubuntu-gdm-set-background --image /home/user/backgrounds/image.jpg`
-2. `sudo ./ubuntu-gdm-set-background --color \#aAbBcC`
-3. `sudo ./ubuntu-gdm-set-background --gradient horizontal \#aAbBcC \#dDeEfF`
-4. `sudo ./ubuntu-gdm-set-background --gradient vertical \#aAbBcC \#dDeEfF`
-5. `sudo ./ubuntu-gdm-set-background --reset`
-6. `./ubuntu-gdm-set-background --help`
+1. `sudo ./pop-gdm-set-background --image /home/user/backgrounds/image.jpg`
+2. `sudo ./pop-gdm-set-background --color \#aAbBcC`
+3. `sudo ./pop-gdm-set-background --gradient horizontal \#aAbBcC \#dDeEfF`
+4. `sudo ./pop-gdm-set-background --gradient vertical \#aAbBcC \#dDeEfF`
+5. `sudo ./pop-gdm-set-background --reset`
+6. `./pop-gdm-set-background --help`
