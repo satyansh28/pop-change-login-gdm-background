@@ -1,5 +1,5 @@
 # pop-change-login-gdm-background
-A script  to change the gdm background on Pop!_OS(20.04, 21.04, 21.10 and 22.04)
+A script  to change the gdm background on Pop!_OS(20.04, 21.04 and 21.10 )
 
 Clone the repo using the following command:
 
